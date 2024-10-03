@@ -2,13 +2,6 @@
 # -*- coding: utf-8 -*-
 
 
-"""
-Created on a cloudy day
-Name: Pawel Stroka
-Student ID: R00198912
-Cohort: SD3
-
-"""
 
 import math
 import pandas as pd
@@ -367,7 +360,7 @@ def task7():
     # The model's accuracy provides insights that can be used in weather forecasting.
 
 #task1()
-task2()
+#task2()
 #task3()
 #task4()
 #task5()
