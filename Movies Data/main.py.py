@@ -1,8 +1,4 @@
 
-# Pawel Stroka
-# R00198912
-# SD3-B
-
 
 
 import pandas as pd
